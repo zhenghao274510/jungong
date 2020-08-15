@@ -1,0 +1,12 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "sa-hover-menu": "/components/sa-hover-menu/sa-hover-menu",
+    "banner-swiper": "/components/home/homeSwiper",
+    "notice": "/components/home/notic",
+    "send-list": "/components/mycom/sendList",
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar",
+    "scoll-x-title": "/components/mycom/scoll-x-title"
+  }
+}

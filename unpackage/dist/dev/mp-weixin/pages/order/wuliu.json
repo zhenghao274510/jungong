@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "查看物流",
+  "usingComponents": {
+    "empty": "/components/xw-empty/xw-empty"
+  }
+}

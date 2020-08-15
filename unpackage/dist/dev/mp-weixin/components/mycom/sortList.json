@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "sx-rate": "/components/sunui-star/sunui-star"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "军工",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "empty": "/components/xw-empty/xw-empty",
+    "product-list": "/components/mycom/productList"
+  }
+}

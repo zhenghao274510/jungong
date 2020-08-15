@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "投诉建议",
+  "usingComponents": {
+    "evan-form": "/components/evan-form/evan-form",
+    "evan-form-item": "/components/evan-form-item/evan-form-item",
+    "cart-pop": "/components/mycom/cartPop",
+    "evan-from": "/components/evan-form/evan-form",
+    "evan-from-item": "/components/evan-form-item/evan-form-item"
+  }
+}

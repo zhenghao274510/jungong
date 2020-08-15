@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "信息评价",
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "goods-eva": "/components/mycom/eva-info-list",
+    "empty": "/components/xw-empty/xw-empty"
+  }
+}

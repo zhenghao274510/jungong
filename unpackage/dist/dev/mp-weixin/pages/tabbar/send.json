@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "banner-swiper": "/components/mycom/swiper",
+    "send-list": "/components/mycom/sendList"
+  }
+}

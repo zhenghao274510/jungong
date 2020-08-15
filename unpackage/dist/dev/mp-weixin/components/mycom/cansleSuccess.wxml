@@ -1,0 +1,1 @@
+<block wx:if="{{pickerShow}}"><view data-event-opts="{{[['tap',[['hidePicker',['$event']]]]]}}" class="mask data-v-10a4293c" catchtap="__e"><view class="yaoqing-content data-v-10a4293c"><image class="img data-v-10a4293c" src="/static/order/zhifuchenggong.png" mode></image><view class="cancel-title data-v-10a4293c">订单已取消</view></view></view></block>

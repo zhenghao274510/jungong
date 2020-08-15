@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/resgin/index",
+    "pages/resgin/resgin",
+    "pages/resgin/resginSwiper",
+    "pages/index/index",
+    "pages/productList",
+    "pages/search/search",
+    "pages/search/search_list",
+    "pages/mineoptions/address",
+    "pages/mineoptions/myvideo",
+    "pages/mineoptions/zifei",
+    "pages/mineoptions/newSend",
+    "pages/mineoptions/addressManage",
+    "pages/mineoptions/newAddAdress",
+    "pages/mineoptions/myback",
+    "pages/mineoptions/mymesage",
+    "pages/mineoptions/fondPwd",
+    "pages/mineoptions/myTeam",
+    "pages/mineoptions/myEnterprise",
+    "pages/mineoptions/myStore",
+    "pages/mineoptions/yijian",
+    "pages/mineoptions/sendVideo",
+    "pages/mineoptions/callwe",
+    "pages/mineoptions/webView",
+    "pages/goodDetails/senddetails",
+    "pages/goodDetails/teamDetails",
+    "pages/goodDetails/gooddetails",
+    "pages/goodDetails/useEvaList",
+    "pages/goodDetails/infoEvaList",
+    "pages/order/order",
+    "pages/order/finishOrder",
+    "pages/order/orderDetails",
+    "pages/order/subSouHuo",
+    "pages/order/tuiorder",
+    "pages/order/wuliu",
+    "pages/order/tuiDetails",
+    "pages/order/addEva"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "军工",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取当前位置"
+    }
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap25.json"
+}

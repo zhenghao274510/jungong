@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "home-list": "/components/mycom/homeList",
+    "banner-swiper": "/components/mycom/swiper",
+    "navs": "/components/home/navs",
+    "home-scoll-x": "/components/home/scroll-view-x"
+  }
+}

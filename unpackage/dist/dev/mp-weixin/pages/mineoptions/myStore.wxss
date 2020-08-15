@@ -1,0 +1,10 @@
+
+.mysend-line {
+	height: 20rpx;
+	background: #F6F6F6;
+}
+.mysend-line-two {
+	height: 1rpx;
+	background: #F6F6F6;
+}
+

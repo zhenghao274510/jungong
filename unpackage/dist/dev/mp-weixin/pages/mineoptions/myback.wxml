@@ -1,0 +1,1 @@
+<view><my-back vue-id="21a3ca16-1" dataList="{{dataList}}" bind:__l="__l"></my-back><block wx:if="{{showLoading}}"><uni-load-more vue-id="21a3ca16-2" status="{{status}}" bind:__l="__l"></uni-load-more></block><block wx:if="{{showEmpty}}"><empty vue-id="21a3ca16-3" bind:__l="__l"></empty></block></view>

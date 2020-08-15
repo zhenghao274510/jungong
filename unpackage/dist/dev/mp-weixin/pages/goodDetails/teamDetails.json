@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "团队详情",
+  "usingComponents": {
+    "message-goods-nav": "/components/message-goods-nav/message-goods-nav",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "pin-lun-btn": "/components/mycom/pinlinbtn",
+    "team-members": "/components/mycom/teamMembers"
+  }
+}

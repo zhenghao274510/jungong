@@ -1,0 +1,229 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/resgin/index",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/resgin/resgin",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/resgin/resginSwiper",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		
+		{
+			"path": "pages/productList",
+			"style": {
+				"navigationBarTitleText": "军工"
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "搜索"
+			}
+		},
+		{
+			"path": "pages/search/search_list",
+			"style": {
+				"navigationBarTitleText": "搜索"
+			}
+		},
+		{
+			"path": "pages/mineoptions/address",
+			"style": {
+				"navigationBarTitleText": "我的地址"
+			}
+		},
+		{
+			"path": "pages/mineoptions/myvideo",
+			"style": {
+				"navigationBarTitleText": "我的视频"
+			}
+		},
+		{
+			"path": "pages/mineoptions/zifei",
+			"style": {
+				"navigationBarTitleText": "外卖"
+			}
+		},
+		{
+			"path": "pages/mineoptions/newSend",
+			"style": {
+				"navigationBarTitleText": "发布"
+			}
+		},
+		{
+			"path": "pages/mineoptions/addressManage",
+			"style": {
+				"navigationBarTitleText": "修改地址"
+			}
+		},
+		{
+			"path": "pages/mineoptions/newAddAdress",
+			"style": {
+				"navigationBarTitleText": "添加地址"
+			}
+		},
+		{
+			"path": "pages/mineoptions/myback",
+			"style": {
+				"navigationBarTitleText": "我的回收"
+			}
+		},
+		{
+			"path": "pages/mineoptions/mymesage",
+			"style": {
+				"navigationBarTitleText": "我的消息"
+			}
+		},
+		{
+			"path": "pages/mineoptions/fondPwd",
+			"style": {
+				"navigationBarTitleText": "找回密码"
+			}
+		},
+		{
+			"path": "pages/mineoptions/myTeam",
+			"style": {
+				"navigationBarTitleText": "成为团队"
+			}
+		},
+		{
+			"path": "pages/mineoptions/myEnterprise",
+			"style": {
+				"navigationBarTitleText": "成为企业"
+			}
+		},
+		{
+			"path": "pages/mineoptions/myStore",
+			"style": {
+				"navigationBarTitleText": "我的收藏"
+			}
+		},
+		{
+			"path": "pages/mineoptions/yijian",
+			"style": {
+				"navigationBarTitleText": "投诉建议"
+			}
+		},
+		{
+			"path": "pages/mineoptions/sendVideo",
+			"style": {
+				"navigationBarTitleText": "发布"
+			}
+		},
+
+		{
+			"path": "pages/mineoptions/callwe",
+			"style": {
+				"navigationBarTitleText": "联系我们"
+			}
+		},
+		{
+			"path": "pages/mineoptions/webView",
+			"style": {
+				"navigationBarTitleText": "军工"
+			}
+		},
+		{
+			"path": "pages/goodDetails/senddetails",
+			"style": {
+				"navigationBarTitleText": "发布详情"
+			}
+		},
+		{
+			"path": "pages/goodDetails/teamDetails",
+			"style": {
+				"navigationBarTitleText": "团队详情"
+			}
+		},
+		{
+			"path": "pages/goodDetails/gooddetails",
+			"style": {
+				"navigationBarTitleText": "商品详情"
+			}
+		},
+		{
+			"path": "pages/goodDetails/useEvaList",
+			"style": {
+				"navigationBarTitleText": "商品评价"
+			}
+		},
+		{
+			"path": "pages/goodDetails/infoEvaList",
+			"style": {
+				"navigationBarTitleText": "信息评价"
+			}
+		},
+		{
+			"path": "pages/order/order",
+			"style": {
+				"navigationBarTitleText": "我的订单"
+			}
+		},
+		{
+			"path": "pages/order/finishOrder",
+			"style": {
+				"navigationBarTitleText": "确认订单"
+			}
+		},
+		{
+			"path": "pages/order/orderDetails",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/order/subSouHuo",
+			"style": {
+				"navigationBarTitleText": "申请退款"
+			}
+		},
+		{
+			"path": "pages/order/tuiorder",
+			"style": {
+				"navigationBarTitleText": "退款/售后"
+			}
+		},
+		{
+			"path": "pages/order/wuliu",
+			"style": {
+				"navigationBarTitleText": "查看物流"
+			}
+		},
+		{
+			"path": "pages/order/tuiDetails",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/order/addEva",
+			"style": {
+				"navigationBarTitleText": "评价"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "军工",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "mine-order-list": "/components/mycom/mine-order-list",
+    "mine-servce-list": "/components/mycom/mine-servce-list",
+    "qiandao": "/components/qian-dao/qian-dao"
+  }
+}

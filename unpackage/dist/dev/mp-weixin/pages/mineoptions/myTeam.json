@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "成为团队",
+  "usingComponents": {
+    "evan-form": "/components/evan-form/evan-form",
+    "evan-form-item": "/components/evan-form-item/evan-form-item",
+    "evan-from": "/components/evan-form/evan-form",
+    "evan-from-item": "/components/evan-form-item/evan-form-item",
+    "add-team": "/components/mycom/addTeam",
+    "top-content-inter": "/components/mycom/yaoqing"
+  }
+}

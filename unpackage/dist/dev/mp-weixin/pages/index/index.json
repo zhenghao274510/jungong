@@ -1,0 +1,12 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "page-heade": "/components/mycom/pageHeader",
+    "tab-home": "/pages/tabbar/home",
+    "tab-shop": "/pages/tabbar/shop",
+    "tab-send": "/pages/tabbar/send",
+    "tab-cart": "/pages/tabbar/cart",
+    "tab-mine": "/pages/tabbar/mine"
+  }
+}

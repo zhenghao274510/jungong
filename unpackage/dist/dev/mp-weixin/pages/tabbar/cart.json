@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-search-bar": "/components/uni-search-bar/uni-search-bar",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "banner-swiper": "/components/mycom/swiper",
+    "video-list": "/components/mycom/videoList",
+    "share-list": "/components/mycom/shareList"
+  }
+}

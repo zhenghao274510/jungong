@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tui-icon": "/components/uni-icons/uni-icons"
+  }
+}
